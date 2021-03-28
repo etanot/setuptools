@@ -88,7 +88,7 @@ functionality, where one library solicits entry points and any number of other
 libraries provide those entry points.
 
 A good example of this plug-in behavior can be seen in
-`pytest plugins <https://docs.pytest.org/en/latest/writing_plugins.html>`_,
+`pytest plugins <https://docs.pytest.org/en/latest/how-to/writing_plugins.html>`_,
 where pytest is a test framework that allows other libraries to extend
 or modify its functionality through the ``pytest11`` entry point.
 
